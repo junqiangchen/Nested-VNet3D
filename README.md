@@ -35,7 +35,7 @@ UNet++: A Nested U-Net model can find from here:https://github.com/MrGiovanni/UN
 
 * 200-209case dice value and result
 
-![](dicevalue.PNG)
+![](dicevalue1.PNG)
 
 * segmentation result can find in the video of VNet++.avi
 
